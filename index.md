@@ -11,40 +11,41 @@ uncertainty in Type Ia supernova cosmology. It will be very timely to discuss ho
 
 ## Venue
 
-The workshop will be held at the University Club on the University of Pittsburgh campus, address: 123 University Pl, Pittsburgh, PA 15260. 
+The workshop will be held at the **University Club** on the University of Pittsburgh campus, address: 123 University Pl, Pittsburgh, PA 15260. 
 
 [![](https://raw.githubusercontent.com/snianir/webpage/master/map.png)](https://www.google.com/maps/place/123+University+Pl,+Pittsburgh,+PA+15213/@40.4441628,-79.9567206,16.79z/data=!4m13!1m7!3m6!1s0x8834f22915b10c2f:0x4034aeb788d64a44!2s123+University+Pl,+Pittsburgh,+PA+15213!3b1!8m2!3d40.444211!4d-79.9568323!3m4!1s0x8834f22915b10c2f:0x4034aeb788d64a44!8m2!3d40.444211!4d-79.9568323?hl=en)
+
+Hotel:
+
+We have arranged for a block of rooms at the **Wyndham University Center** Pittsburgh, just two blocks from the meeting location, for the nights of 04/10-04/13.  Those wishing to book after registration for the conference has been confirmed, do not contact the hotel directly. Instead, please email Cindy Cercone at cmc138(at)pitt(dot)edu with which nights you wish to reserve. She will make reservations and send you a confirmation number with the hotel, along with further travel details.  The discounted room rate is $145+tax.
 
 Getting to the Hotel/University Club:
 
 There are several options for reaching the Hotel from the Pittsburgh International Airport.  A taxi should cost ~$50-60, while Uber or Lyft should be ~$30-40.  Super Shuttle is ~$25 for a shared ride van.  There is a Port Authority bus line from the airport with stops near the hotel, the 28X (link) that runs every half hour from 5:30 am to midnight.  The fare is only $3.75, though the trip will take slightly longer than an hour. Exit the bus at Forbes and Schenley Drive (by a large Diplodocus dinosaur statue), the Wyndham hotel is then on the opposite side of the Cathedral of Learning, the 42-story building at the center of Pitt's campus.
 
-Hotel:
-
-We have arranged for a block of rooms at the Wyndham University Center Pittsburgh, just two blocks from the meeting location, for the nights of 04/10-04/13.  Those wishing to book after registration for the conference has been confirmed, do not contact the hotel directly. Instead, please email Cindy Cercone at cmc138(at)pitt(dot)edu with which nights you wish to reserve. She will make reservations and send you a confirmation number with the hotel, along with further travel details.  The discounted room rate is $145+tax.
 
 ## Participants
 
-- Arturo Avelino
-- Tiara Diamond
-- Chris Burns 
-- Suhail Dhawan
-- Andrew Friedman
-- Lluís Galbany
-- Ariel Goobar
-- Chelsea Harris
-- John Hillier
-- Peter Hoeflich
-- Rebecca Hounsell
-- Eric Hsiao
-- Kasey Mandel
-- Gautham Narayan
-- Mark Phillips
-- Kara Ponder
-- Armin Rest
-- Max Stritzinger
-- Tea Temim
-- Michael Wood-Vasey
+- Arturo Avelino (CfA)
+- Tiara Diamond (NASA GSFC)
+- Chris Burns (Carnegie Obs.)
+- Suhail Dhawan (Stockholm U.)
+- Andrew Friedman (UCSD)
+- Lluís Galbany (Pitt)
+- Ariel Goobar (Stockholm U.)
+- Chelsea Harris (UCB)
+- John Hillier (Pitt)
+- Peter Hoeflich (FSU)
+- Rebekah Hounsell (USCS)
+- Eric Hsiao (FSU)
+- Kasey Mandel (Cambridge U.)
+- Gautham Narayan (STScI)
+- Mark Phillips (Carnegie Obs.)
+- Kara Ponder (UCB)
+- Armin Rest (STScI)
+- Max Stritzinger (Aarhus U.)
+- Tea Temim (STScI)
+- Michael Wood-Vasey (Pitt)
 
 
 ## Program
