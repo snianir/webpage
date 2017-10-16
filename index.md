@@ -89,70 +89,27 @@ We will have time for introductory talks, discussion on particular topics, and h
 
 5:00h of tutorials (or hands-on sessions), given by members that are already involved in the LSST SN group, and thought to provide the attendants with the existing tools and for making substantial progress on coding. 
 
-### Wednesday April 11th
-08:45-09:00    Breakfast
-09:00-09:15   Welcome/introduction
-SESSION 1
-09:15-09:45    Talk 1 (25’ + 5’)
-09:45-10:15    Talk 2
-10:15-10:45    Discussion: Select moderator: Short 1-slide, 2 minute intro. Then actual discussion.
-10:45-11:00    coffee
-SESSION 2
-11:00-11:30    Talk 3 
-11:30-12:00    Talk 4 
-12:00-12:30    Discussion
-12:30-13:30    Lunch
-SESSION 3
-13:30-14:00    Talk 5
-14:00-14:30    Talk 6
-14:30-15:00    Discussion
-15:15-15:30    coffee
-SESSION 4
-15:30-16:30    WWE
-16:30-17:00    Discussion
-19:00-             Workshop dinner
 
-### Thursday April 12th
-08:45-09:00    Breakfast
-SESSION 5
-09:00-09:30    Talk 7
-09:30-10:00    Talk 8
-10:00-10:30    Discussion
-10:30-10:45    coffee
-SESSION 6
-10:45-11:15    Talk 9
-11:15-11:45    Talk 10
-11:45-12:15    Discussion
-12:15-13:30    Lunch
-SESSION 7
-13:30-14:00    Talk 11
-14:00-14:30    Talk 12
-14:30-15:00    Discussion
-15:15-15:30    coffee
-SESSION 8
-15:30-16:30    WWE
-16:30-17:00    Discussion
+|             | Wednesday April 11th | Thursday April 12th | Friday  April 13th |
+|:------------|:---------------------|:--------------------|:-------------------|
+| 08:45-09:00 | Breakfast            | Breakfast           | Breakfast          |
+| 09:00-09:15 | Welcome/introduction |                     |                    |
+| 09:15-09:45 | Talk (25 + 5)        | Talk (25 + 5)       | Talk (25 + 5)      |
+| 09:45-10:15 | Talk                 | Talk                | Talk               |
+| 10:15-10:45 | Discussion           | Discussion          | Discussion         |
+| 10:45-11:00 | Coffee               | Coffee              | Coffee             |
+| 11:00-11:30 | Talk                 | Talk                | Talk               |
+| 11:30-12:00 | Talk                 | Talk                | Talk               |
+| 12:00-12:30 | Discussion           | Discussion          | Discussion         |
+| 12:30-13:30 | Lunch                | Lunch               | Lunch              |
+| 13:30-14:00 | Talk                 | Talk                | INSTRUMENTATION    |
+| 14:00-14:30 | Talk                 | Talk                | INSTRUMENTATION    |
+| 14:30-15:00 | Discussion           | Discussion          | Discussion         |
+| 15:15-15:30 | coffee               | coffee              | coffee             |
+| 15:30-16:30 | WWE                  | WWE                 | Discussion         |
+| 16:30-17:00 | Discussion           | Discussion          | Closure            |
+| 19:00-      | Workshop dinner      |                     |                    |
 
-### Friday  April 13th
-08:45-09:00    Breakfast
-SESSION 9
-09:00-09:30    Talk 13
-09:30-10:00    Talk 14
-10:00-10:30    Discussion
-10:30-10:45    coffee
-SESSION 10
-10:45-11:15    Talk 15 
-11:15-11:45    Talk 16
-11:45-12:15    Discussion
-12:15-13:30    Lunch
-SESSION 11
-13:30-14:30    INSTRUMENTATION Talk(s)
-14:30-15:00    Discussion
-15:15-15:30    coffee
-SESSION 12
-15:30-16:30    FUTURE Talk(s)
-16:30-17:00    Discussion
-15:15-15:30    closure
 
 ## Committees
 
