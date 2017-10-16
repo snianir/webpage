@@ -42,6 +42,7 @@ It will be very timely to bring these groups together to discuss how to extract 
 
 The workshop will be held at the University Club on the University of Pittsburgh campus, address: 123 University Pl, Pittsburgh, PA 15260. 
 
+{% render_map %}
  
 (google-map)
 ![](https://github.com/snianir/webpage/map.png)
