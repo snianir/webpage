@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 title: Type Ia supernovae in the Near-Infrared
 description: Pittsburgh, 2018 April 11-13
 google_analytics: UA-108188963-1
-show_downloads: false
+markdown: kramdown
 
 $large-breakpoint: 64em !default;
 $medium-breakpoint: 42em !default;
