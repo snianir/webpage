@@ -3,13 +3,3 @@ title: Type Ia supernovae in the Near-Infrared
 description: Pittsburgh, 2018 April 11-13
 google_analytics: UA-108188963-1
 markdown: kramdown
-
-mapping:
-    provider: google_js
-    api_key: AIzaSyC3RxZq1d7STXeP9o3zqkpzfYVjtdufsdA
-    zoom: 10
-    dimensions:
-        width: 600
-        height: 400
-    latitude: 51.101
-    longitude: 0.1
