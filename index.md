@@ -42,9 +42,7 @@ It will be very timely to bring these groups together to discuss how to extract 
 
 The workshop will be held at the University Club on the University of Pittsburgh campus, address: 123 University Pl, Pittsburgh, PA 15260. 
 
-![](https://raw.githubusercontent.com/snianir/webpage/master/map.png)
-
-[Link](https://www.google.com/maps/place/123+University+Pl,+Pittsburgh,+PA+15213/@40.4441628,-79.9567206,16.79z/data=!4m13!1m7!3m6!1s0x8834f22915b10c2f:0x4034aeb788d64a44!2s123+University+Pl,+Pittsburgh,+PA+15213!3b1!8m2!3d40.444211!4d-79.9568323!3m4!1s0x8834f22915b10c2f:0x4034aeb788d64a44!8m2!3d40.444211!4d-79.9568323?hl=en)
+[![](https://raw.githubusercontent.com/snianir/webpage/master/map.png)](https://www.google.com/maps/place/123+University+Pl,+Pittsburgh,+PA+15213/@40.4441628,-79.9567206,16.79z/data=!4m13!1m7!3m6!1s0x8834f22915b10c2f:0x4034aeb788d64a44!2s123+University+Pl,+Pittsburgh,+PA+15213!3b1!8m2!3d40.444211!4d-79.9568323!3m4!1s0x8834f22915b10c2f:0x4034aeb788d64a44!8m2!3d40.444211!4d-79.9568323?hl=en)
 
 Getting to the Hotel/University Club:
 There are several options for reaching the Hotel from the Pittsburgh International Airport.  A taxi should cost ~$50-60, while Uber or Lyft should be ~$30-40.  Super Shuttle is ~$25 for a shared ride van.  There is a Port Authority bus line from the airport with stops near the hotel, the 28X (link) that runs every half hour from 5:30 am to midnight.  The fare is only $3.75, though the trip will take slightly longer than an hour. Exit the bus at Forbes and Schenley Drive (by a large Diplodocus dinosaur statue), the Wyndham hotel is then on the opposite side of the Cathedral of Learning, the 42-story building at the center of Pitt's campus.
