@@ -21,7 +21,7 @@ We will broadcast the talks throughout the workshop via BlueJeans, using the usu
 This workshop is funded by a grant from the LSST Corporation through the Enabling Science program. For more details on this program, see https://lsstcorporation.org/enabling-science
 
 
-## Rationale
+## Rationale ##
 
 Optical observations of SNe Ia have been widely used in the last decades to measure cosmological distances, and have been key in measuring the Hubble constant and demonstratibg cosmic acceleration. In recent years, the literature sample of optical SN Ia at cosmological distances has grown substantially, and at this point statistical errors are comparable to systematic uncertainties. Further improvement in reducing these systematic errors would require a much better understanding of the physical model of the ex- plosion, which is still incomplete, a direct observational constraint on which kind of progenitors can produce SNe Ia, which is still lacking, as well as a better control of reddening effects due to interstellar and/or circum- stellar dust.
 
