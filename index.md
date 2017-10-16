@@ -55,11 +55,12 @@ We have arranged for a block of rooms at the Wyndham University Center Pittsburg
 
 We will have time for introductory talks, discussion on walking excursions. 
 
+|:------------|:---------------------|:--------------------|:-------------------|
 |             | Wednesday April 11th | Thursday April 12th | Friday  April 13th |
 |:------------|:---------------------|:--------------------|:-------------------|
 | 08:45-09:00 | Breakfast            | Breakfast           | Breakfast          |
 | 09:00-09:15 | Welcome/introduction |                     |                    |
-| 09:15-09:45 | Talk (25 + 5)        | Talk (25 + 5)       | Talk (25 + 5)      |
+| 09:15-09:45 | Talk (25 + 5)        | Talk                | Talk               |
 | 09:45-10:15 | Talk                 | Talk                | Talk               |
 | 10:15-10:45 | Discussion           | Discussion          | Discussion         |
 | 10:45-11:00 | Coffee               | Coffee              | Coffee             |
@@ -67,13 +68,15 @@ We will have time for introductory talks, discussion on walking excursions.
 | 11:30-12:00 | Talk                 | Talk                | Talk               |
 | 12:00-12:30 | Discussion           | Discussion          | Discussion         |
 | 12:30-13:30 | Lunch                | Lunch               | Lunch              |
-| 13:30-14:00 | Talk                 | Talk                | INSTRUMENTATION    |
-| 14:00-14:30 | Talk                 | Talk                | INSTRUMENTATION    |
+| 13:30-14:00 | Talk                 | Talk                | Talk (Inst.)       |
+| 14:00-14:30 | Talk                 | Talk                | Talk (Inst.)       |
 | 14:30-15:00 | Discussion           | Discussion          | Discussion         |
 | 15:15-15:30 | coffee               | coffee              | coffee             |
 | 15:30-16:30 | WWE                  | WWE                 | Discussion         |
 | 16:30-17:00 | Discussion           | Discussion          | Closure            |
+|:------------|:---------------------|:--------------------|:-------------------|
 | 19:00-      | Workshop dinner      |                     |                    |
+|:------------|:---------------------|:--------------------|:-------------------|
 
 
 ## Committees
