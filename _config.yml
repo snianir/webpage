@@ -4,12 +4,10 @@ description: Pittsburgh, 2018 April 11-13
 google_analytics: UA-108188963-1
 markdown: kramdown
 
-plugins:
-  - jekyll-maps
-  
-maps:
-  google:
+mapping:
+    provider: google_js
     api_key: AIzaSyC3RxZq1d7STXeP9o3zqkpzfYVjtdufsdA
-location:
-  latitude: 51.5285582
-  longitude: -0.2416807
+    zoom: 10
+    dimensions:
+        width: 600
+        height: 400
