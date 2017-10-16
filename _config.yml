@@ -6,3 +6,10 @@ markdown: kramdown
 
 plugins:
   - jekyll-maps
+  
+maps:
+  google:
+    api_key: AIzaSyC3RxZq1d7STXeP9o3zqkpzfYVjtdufsdA
+location:
+  latitude: 51.5285582
+  longitude: -0.2416807
