@@ -11,5 +11,5 @@ mapping:
     dimensions:
         width: 600
         height: 400
-	latitude: 51.101
-	longitude: 0.1
+    latitude: 51.101
+    longitude: 0.1
