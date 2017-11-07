@@ -86,7 +86,7 @@ Lluís Galbany (U. Pittsburgh), W. Michael Wood-Vasey (U. Pittsburgh)
 
 ### SOC (alph.)
 
-Lluís Galbany (U. Pittsburgh), John Hillier (U. Pittsburgh), Eric Hsiao (Florida State U.), Kasey Mandel (U. Cambridge), Kara Ponder (U. Pittsburgh), Armin Rest (STScI), W. Michael Wood-Vasey (U. Pittsburgh)
+Lluís Galbany (U. Pittsburgh), John Hillier (U. Pittsburgh), Eric Hsiao (Florida State U.), Kasey Mandel (U. Cambridge), Kara Ponder (BCCP), Armin Rest (STScI), W. Michael Wood-Vasey (U. Pittsburgh)
 
 ## Contact
 
