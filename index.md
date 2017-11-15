@@ -45,7 +45,6 @@ There are several options for reaching the Hotel from the Pittsburgh Internation
 - Kara Ponder (UCB)
 - Armin Rest (STScI)
 - Max Stritzinger (Aarhus U.)
-[//]: <> (- Nick Sutntzeff (TAMU))
 - Tea Temim (STScI)
 - Michael Wood-Vasey (Pitt)
 
