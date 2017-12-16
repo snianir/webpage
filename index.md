@@ -51,31 +51,78 @@ There are several options for reaching the Hotel from the Pittsburgh Internation
 
 ## Program
 
-We will have time for introductory talks, discussion on walking excursions. 
+We will have time for introductory talks (15' + 5'), discussion on walking excursions. 
 
-|:------------|:---------------------|:--------------------|:-------------------|
-|             | Wednesday April 11th | Thursday April 12th | Friday  April 13th |
-|:------------|:---------------------|:--------------------|:-------------------|
-| 08:45-09:00 | Breakfast            | Breakfast           | Breakfast          |
-| 09:00-09:15 | Welcome/introduction |                     |                    |
-| 09:15-09:45 | Talk (25 + 5)        | Talk                | Talk               |
-| 09:45-10:15 | Talk                 | Talk                | Talk               |
-| 10:15-10:45 | Discussion           | Discussion          | Discussion         |
-| 10:45-11:00 | Coffee               | Coffee              | Coffee             |
-| 11:00-11:30 | Talk                 | Talk                | Talk               |
-| 11:30-12:00 | Talk                 | Talk                | Talk               |
-| 12:00-12:30 | Discussion           | Discussion          | Discussion         |
-| 12:30-13:30 | Lunch                | Lunch               | Lunch              |
-| 13:30-14:00 | Talk                 | Talk                | Talk (Inst.)       |
-| 14:00-14:30 | Talk                 | Talk                | Talk (Inst.)       |
-| 14:30-15:00 | Discussion           | Discussion          | Discussion         |
-| 15:15-15:30 | coffee               | coffee              | coffee             |
-| 15:30-16:30 | WWE                  | WWE                 | Discussion         |
-| 16:30-17:00 | Discussion           | Discussion          | Closure            |
-|:------------|:---------------------|:--------------------|:-------------------|
-| 19:00-      | Workshop dinner      |                     |                    |
-|:------------|:---------------------|:--------------------|:-------------------|
+|:------------|:---------------------|:------------|:--------------------|:------------|:-------------------|
+|             | Wednesday April 11th |             | Thursday April 12th |             | Friday  April 13th |
+|:------------|:---------------------|:------------|:--------------------|:------------|:-------------------|
+| 08:45-09:00 | Breakfast            | 08:45-09:00 | Breakfast           | 08:45-09:00 | Breakfast          |
+| 09:00-09:15 | Welcome/introduction | 09:00-09:30 | C. Burns            | 09:00-09:30 | E. Hsiao           |
+| 09:15-09:45 | A. Friedman (25 + 5) | 09:30-10:00 | A. Avelino          | 09:30-10:00 | T. Diamond         |
+| 09:45-10:15 | M. Phillips          | 10:00-10:30 | K. Mandel           | 10:00-10:30 | Discussion         |
+| 10:15-10:45 | K. Ponder            | 10:30-10:45 | Coffee              | 10:30-10:45 | coffee             |
+| 10:45-11:00 | Coffee               | 10:45-11:15 | S. Dhawan           | 10:45-11:15 | S. Jha             |
+| 11:00-11:30 | Avelino/Mandel       | 11:15-12:00 | Discussion          | 11:15-11:45 | M. Stritzinger     |
+| 11:30-12:15 | Discussion           | 12:00-13:00 | Lunch               | 11:45-12:15 | Talk               |
+| 12:15-13:30 | Lunch                | 13:00-13:30 | A. Goobar           | 12:15-13:15 | Lunch              |
+| 13:30-14:00 | P. Hoeflich          | 13:30-14:00 | C. Harris           | 13:15-13:45 | G. Narayan         |
+| 14:00-14:30 | J. Hillier           | 14:00-14:30 | L. Galbany          | 13:45-14:15 | Discussion         |
+| 14:30-15:15 | Discussion           | 14:30-15:15 | Discussion          | 14:15-14:30 | coffee             |
+| 15:15-15:30 | Coffee               | 15:15-15:30 | coffee              | 14:30-15:00 | T. Temin           |
+| 15:30-16:30 | WWE                  | 15:30-16:30 | WWE                 | 15:00-15:30 | A. Rest            |
+| 16:30-17:00 | Discussion           | 16:30-17:00 | Discussion          | 15:30-16:00 | R. Hounsell        |
+|             |                      |             |                     | 16:00-17:00 | Discussion         |
+|             |                      |             |                     | 17:00-17:30 | Closure            |
+|:------------|:---------------------|:------------|:--------------------|:------------|:-------------------|
+| 19:00-      | Workshop dinner      |             |                     |             |                    |
+|:------------|:---------------------|:------------|:--------------------|:------------|:-------------------|
 
+### Talks:
+
+#### 1 Surveys/Obs. outlook: 
+
+A. Friedman: Summary of CfA NIR Type Ia Supernova Observations with PAIRITEL
+M. Phillips: overview of the CSP-I and CSP-II surveys
+K. Ponder: SweetSpot
+Arturo/Kaisey: Observational aspects of RAISIN
+
+#### 2 Theory/Simulation/What modellers need?
+
+P. Hoeflich: Signatures of Thermonuclear Explosions in the NIR, MIR and beyond
+J. Hillier: TBD
+
+#### 3 Standardization/LC-fitter Optical+NIR:
+
+C. Burns: Is there a way forward to improve SN cosmological fits?
+A. Avelino: Opreliminary results from RAISIN 1 and RAISIN 2 programs with the Hubble Space Telescope
+K. Mandel: Statistical Modeling of Type Ia SN data in the Optical and NIR
+S. Dhawan: Measuring the Hubble constant with Type Ia supernovae as NIR standard candles
+
+#### 4 Dust/Intrinsic color: 
+
+A. Goobar: What have we learned so far about the extinction of SNe Ia?
+C. Harris: how interaction with circumstellar material affects SN Ia in the infrared
+L. Galbany: Local SNIa environments with IFU: Optical and NIR
+
+#### 5 Spectroscopy
+
+E. Hsiao: Deciphering the origin of Type Ia supernova with NIR spectroscopy
+T. Diamond: Nebular spectra in NIR
+
+#### 6 Peculiar SNeIa
+
+S. Jha: Type Iax Supernovae
+M. Stritzinger: TBD
+
+#### 7 NIR calibration
+
+G. Narayan: Tying CALSPEC to Wide-field UVOIR Surveys
+
+#### 8 Technical capabilities/Future surveys
+
+T. Temin: TBD (JWST)
+A. Rest: SN Ia (and other transients) with HSC and JWST.
+R. Hounsell: Optimization of the WFIRST SN survey
 
 ## Committees
 
