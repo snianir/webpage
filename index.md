@@ -1,4 +1,4 @@
-Welcome to the webpage of the "Type Ia supernova in the Near-Infrared" workshop funded by a grant from the Pittsburgh Particle Physics, Astrophysics and Cosmology Center ([PITT-PACC](http://www.physicsandastronomy.pitt.edu/pittpacc)).
+Welcome to the webpage of the "New advances in NIR type Ia supernova science" workshop funded by a grant from the Pittsburgh Particle Physics, Astrophysics and Cosmology Center ([PITT-PACC](http://www.physicsandastronomy.pitt.edu/pittpacc)).
 
 ## Rationale
 
