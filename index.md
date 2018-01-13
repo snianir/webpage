@@ -46,6 +46,7 @@ There are several options for reaching the Hotel from the Pittsburgh Internation
 - Armin Rest (STScI)
 - Max Stritzinger (Aarhus U.)
 - Tea Temim (STScI)
+- Giacomo Terreran (Northwestern U.)
 - Michael Wood-Vasey (Pitt)
 
 
