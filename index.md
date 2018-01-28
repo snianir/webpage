@@ -28,11 +28,11 @@ There are several options for reaching the Hotel from the Pittsburgh Internation
 
 - Arturo Avelino (CfA)
 - Tiara Diamond (NASA GSFC)
+- Mattia Bulla (Stockholm U.)
 - Chris Burns (Carnegie Obs.)
 - Suhail Dhawan (Stockholm U.)
 - Andrew Friedman (UCSD)
 - Lluís Galbany (Pitt)
-- Ariel Goobar (Stockholm U.)
 - Chelsea Harris (UCB)
 - John Hillier (Pitt)
 - Peter Hoeflich (FSU)
@@ -65,7 +65,7 @@ We will have time for introductory talks (25' + 5'), discussion on walking excur
 | 10:45-11:00 | Coffee               | | 10:45-11:15 | S. Dhawan           | | 10:45-11:15 | S. Jha             |
 | 11:00-11:30 | Avelino/Mandel       | | 11:15-12:00 | Discussion          | | 11:15-11:45 | M. Stritzinger     |
 | 11:30-12:15 | Discussion           | | 12:00-13:00 | Lunch               | | 11:45-12:15 | Talk               |
-| 12:15-13:30 | Lunch                | | 13:00-13:30 | A. Goobar           | | 12:15-13:15 | Lunch              |
+| 12:15-13:30 | Lunch                | | 13:00-13:30 | M. Bulla            | | 12:15-13:15 | Lunch              |
 | 13:30-14:00 | P. Hoeflich          | | 13:30-14:00 | C. Harris           | | 13:15-13:45 | G. Narayan         |
 | 14:00-14:30 | J. Hillier           | | 14:00-14:30 | L. Galbany          | | 13:45-14:15 | Discussion         |
 | 14:30-15:15 | Discussion           | | 14:30-15:15 | Discussion          | | 14:15-14:30 | coffee             |
