@@ -69,7 +69,7 @@ We will have time for introductory talks (25' + 5'), discussion on walking excur
 | 13:30-14:00 | P. Hoeflich          | | 13:30-14:00 | C. Harris           | | 13:15-13:45 | G. Narayan         |
 | 14:00-14:30 | J. Hillier           | | 14:00-14:30 | L. Galbany          | | 13:45-14:15 | Discussion         |
 | 14:30-15:15 | Discussion           | | 14:30-15:15 | Discussion          | | 14:15-14:30 | coffee             |
-| 15:15-15:30 | Coffee               | | 15:15-15:30 | coffee              | | 14:30-15:00 | T. Temin           |
+| 15:15-15:30 | Coffee               | | 15:15-15:30 | coffee              | | 14:30-15:00 | T. Temim           |
 | 15:30-16:30 | WWE                  | | 15:30-16:30 | WWE                 | | 15:00-15:30 | A. Rest            |
 | 16:30-17:00 | Discussion           | | 16:30-17:00 | Discussion          | | 15:30-16:00 | R. Hounsell        |
 |             |                      | |             |                     | | 16:00-17:00 | Discussion         |
@@ -121,7 +121,7 @@ We will have time for introductory talks (25' + 5'), discussion on walking excur
 
 #### 8 Technical capabilities/Future surveys
 
-- T. Temin: TBD (JWST)
+- T. Temim: TBD (JWST)
 - A. Rest: SN Ia (and other transients) with HSC and JWST.
 - R. Hounsell: Optimization of the WFIRST SN survey
 
