@@ -27,10 +27,10 @@ There are several options for reaching the Hotel from the Pittsburgh Internation
 ## Participants
 
 - Arturo Avelino (CfA)
-- Tiara Diamond (NASA GSFC)
 - Mattia Bulla (Stockholm U.)
 - Chris Burns (Carnegie Obs.)
 - Suhail Dhawan (Stockholm U.)
+- Tiara Diamond (NASA GSFC)
 - Andrew Friedman (UCSD)
 - Lluís Galbany (Pitt)
 - Chelsea Harris (UCB)
