@@ -101,7 +101,7 @@ We will have time for introductory talks (25' + 5'), discussion on walking excur
 
 #### 4 Dust/Intrinsic color: 
 
-- A. Goobar: What have we learned so far about the extinction of SNe Ia?
+- M. Bulla: On the location of dust in Type Ia supernovae
 - C. Harris: how interaction with circumstellar material affects SN Ia in the infrared
 - L. Galbany: Local SNIa environments with IFU: Optical and NIR
 
