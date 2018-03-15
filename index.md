@@ -94,7 +94,7 @@ We will have time for introductory talks (25' + 5'), discussion on walking excur
 #### 3 Standardization/LC-fitter Optical+NIR:
 
 - C. Burns: Is there a way forward to improve SN cosmological fits?
-- A. Avelino: Opreliminary results from RAISIN 1 and RAISIN 2 programs with the Hubble Space Telescope
+- A. Avelino: Near-infrared SN Ia as standard candles
 - K. Mandel: Statistical Modeling of Type Ia SN data in the Optical and NIR
 - S. Dhawan: Measuring the Hubble constant with Type Ia supernovae as NIR standard candles
 
