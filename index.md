@@ -94,7 +94,7 @@ We will have time for introductory talks (25' + 5'), discussion on walking excur
 - C. Burns: Is there a way forward to improve SN cosmological fits?
 - A. Avelino: Near-infrared SN Ia as standard candles
 - K. Mandel: Statistical Modeling of Type Ia SN data in the Optical and NIR
-- S. Dhawan: Measuring the Hubble constant with Type Ia supernovae as NIR standard candles
+- S. Dhawan: Measuring H0 using Type Ia supernovae as near infrared standard candles
 
 #### 4 Dust/Intrinsic color: 
 
