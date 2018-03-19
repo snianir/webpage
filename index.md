@@ -118,7 +118,7 @@ We will have time for introductory talks (25' + 5'), discussion on walking excur
 #### 8 Technical capabilities/Future surveys
 
 - T. Temim: TBD (JWST)
-- A. Rest: SN Ia (and other transients) with HSC and JWST.
+- A. Rest: SN Ia (and other transients) with JWST.
 - R. Hounsell: Optimization of the WFIRST SN survey
 
 ## Committees
