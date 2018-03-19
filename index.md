@@ -109,7 +109,7 @@ We will have time for introductory talks (25' + 5'), discussion on walking excur
 
 #### 6 Peculiar SNeIa
 
-- M. Stritzinger: TBD
+- M. Stritzinger: Near-Infrared perspectives of 2002cx-like supernovae
 
 #### 7 NIR calibration
 
