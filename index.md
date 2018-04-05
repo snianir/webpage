@@ -87,7 +87,7 @@ We will have time for introductory talks (25' + 5'), discussion on walking excur
 #### 2 Theory/Simulation/What modellers need?
 
 - P. Hoeflich: Signatures of Thermonuclear Explosions in the NIR, MIR and beyond
-- J. Hillier: TBD
+- J. Hillier: Musings about Type Ia SN
 
 #### 3 Standardization/LC-fitter Optical+NIR:
 
