@@ -100,7 +100,7 @@ We will have time for introductory talks (25' + 5'), discussion on walking excur
 
 #### 4 Dust/Intrinsic color: 
 
-- M. Bulla: On the location of dust in Type Ia supernovae
+- M. Bulla: [On the location of dust in Type Ia supernovae](https://github.com/snianir/talks/raw/master/Bulla_dust.pdf).
 - C. Harris: how interaction with circumstellar material affects SN Ia in the infrared
 - L. Galbany: Local SNIa environments with IFU: Optical and NIR
 
