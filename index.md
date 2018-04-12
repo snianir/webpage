@@ -78,12 +78,12 @@ We will have time for introductory talks (25' + 5'), discussion on walking excur
 
 ### Talks:
 
-- L. Galbany: ([Welcome and introduction](https://github.com/snianir/talks/raw/master/Galbany_Introduction.pdf)).
+- L. Galbany: [Welcome and introduction](https://github.com/snianir/talks/raw/master/Galbany_Introduction.pdf).
 
 #### 1 Surveys/Obs. outlook: 
 
 - M. Phillips: overview of the CSP-I and CSP-II surveys
-- K. Ponder: ([Welcome and introduction](https://github.com/snianir/talks/raw/master/Ponder_SweetSpot.pdf)).
+- K. Ponder: [Welcome and introduction](https://github.com/snianir/talks/raw/master/Ponder_SweetSpot.pdf).
 - Arturo/Kaisey: Observational aspects of RAISIN
 
 #### 2 Theory/Simulation/What modellers need?
