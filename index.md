@@ -111,17 +111,17 @@ We will have time for introductory talks (25' + 5'), discussion on walking excur
 
 #### 6 Peculiar SNeIa
 
-- M. Stritzinger: Near-Infrared perspectives of 2002cx-like supernovae
+- M. Stritzinger: [Near-Infrared perspectives of 2002cx-like supernovae](https://github.com/snianir/talks/raw/master/Stritzinger_peculiar.pdf).
 
 #### 7 NIR calibration
 
-- G. Narayan: Tying CALSPEC to Wide-field UVOIR Surveys
+- G. Narayan: [Tying CALSPEC to Wide-field UVOIR Surveys](https://github.com/snianir/talks/raw/master/Narayan_calibration.pdf).
 
 #### 8 Technical capabilities/Future surveys
 
-- T. Temim: JWST Instrument Capabilities
-- A. Rest: SN Ia (and other transients) with JWST.
-- R. Hounsell: Optimization of the WFIRST SN survey
+- T. Temim: [JWST Instrument Capabilities](https://github.com/snianir/talks/raw/master/Temim_JWST.pdf).
+- A. Rest: [SN Ia (and other transients) with JWST](https://github.com/snianir/talks/raw/master/Rest_JWST.pdf).
+- R. Hounsell: [Optimization of the WFIRST SN survey](https://github.com/snianir/talks/raw/master/Hounsell_WFIRST.pdf).
 
 ## Committees
 
