@@ -62,16 +62,16 @@ We will have time for introductory talks (25' + 5'), discussion on walking excur
 | 09:45-10:15 | K. Ponder            | | 10:00-10:30 | K. Mandel           | | 10:00-10:30 | Discussion          |
 | 10:15-10:45 | Avelino/Mandel       | | 10:30-10:45 | Coffee              | | 10:30-10:45 | coffee              |
 | 10:45-11:00 | Coffee               | | 10:45-11:15 | S. Dhawan           | | 10:45-11:15 | M. Stritzinger      |
-| 11:00-12:00 | Discussion           | | 11:15-12:00 | Discussion          | | 11:15-11:55 | Discussion          |
-| 12:00-13:15 | Lunch                | | 12:00-13:00 | Lunch               | | 12:00-13:15 | Public talk + Lunch |
-| 13:15-13:45 | P. Hoeflich          | | 13:00-13:30 | M. Bulla            | | 13:15-13:45 | G. Narayan          |
-| 13:45-14:15 | J. Hillier           | | 13:30-14:00 | C. Harris           | | 13:45-14:15 | Discussion          |
-| 14:15-15:00 | Discussion           | | 14:00-14:30 | L. Galbany          | | 14:15-14:30 | coffee              |
-| 15:00-15:15 | Coffee               | | 14:30-15:15 | Discussion          | | 14:30-15:00 | T. Temim            |
-| 15:15-16:30 | WWE                  | | 15:15-15:30 | coffee              | | 15:00-15:30 | A. Rest             |
-| 16:30-17:00 | Discussion           | | 15:30-16:30 | WWE                 | | 15:30-16:00 | R. Hounsell         |
-|             |                      | | 16:30-17:00 | Discussion          | | 16:00-17:00 | Discussion          |
-|             |                      | |             |                     | | 17:00-17:30 | Closure             |
+| 11:00-12:00 | Discussion           | | 11:15-12:00 | Discussion          | | 11:15-12:00 | Discussion          |
+| 12:00-13:15 | Lunch                | | 12:00-13:00 | Lunch               | | 12:00-13:00 | Public talk + Lunch |
+| 13:15-13:45 | P. Hoeflich          | | 13:00-13:30 | M. Bulla            | | 13:00-13:30 | G. Narayan          |
+| 13:45-14:15 | J. Hillier           | | 13:30-14:00 | C. Harris           | | 13:30-13:55 | Discussion          |
+| 14:15-15:00 | Discussion           | | 14:00-14:30 | L. Galbany          | | 13:55-14:05 | coffee              |
+| 15:00-15:15 | Coffee               | | 14:30-15:15 | Discussion          | | 14:05-14:30 | T. Temim            |
+| 15:15-16:30 | WWE                  | | 15:15-15:30 | coffee              | | 14:30-15:00 | A. Rest             |
+| 16:30-17:00 | Discussion           | | 15:30-16:30 | WWE                 | | 15:00-15:30 | R. Hounsell         |
+|             |                      | | 16:30-17:00 | Discussion          | | 15:30-16:30 | Discussion          |
+|             |                      | |             |                     | | 16:30-17:00 | Closure             |
 |:------------|:---------------------|:|:------------|:--------------------|:|:------------|:--------------------|
 | 19:00-      | Workshop dinner      | |             |                     | |             |                     |
 |:------------|:---------------------|:|:------------|:--------------------|:|:------------|:--------------------|
