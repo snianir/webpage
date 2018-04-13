@@ -106,8 +106,8 @@ We will have time for introductory talks (25' + 5'), discussion on walking excur
 
 #### 5 Spectroscopy
 
-- E. Hsiao: Deciphering the origin of Type Ia supernova with NIR spectroscopy
-- T. Diamond: Nebular spectra in NIR
+- E. Hsiao: [Deciphering the origin of Type Ia supernova with NIR spectroscopy](https://github.com/snianir/talks/raw/master/Hsiao_spectra.pdf).
+- T. Diamond: [Nebular spectra in NIR](https://github.com/snianir/talks/raw/master/Diamond_nebular.pdf).
 
 #### 6 Peculiar SNeIa
 
