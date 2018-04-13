@@ -89,7 +89,7 @@ We will have time for introductory talks (25' + 5'), discussion on walking excur
 #### 2 Theory/Simulation/What modellers need?
 
 - P. Hoeflich: [Signatures of Thermonuclear Explosions in the NIR, MIR and beyond](https://github.com/snianir/talks/raw/master/Hoeflich_models.pdf).
-- J. Hillier: Musings about Type Ia SN
+- J. Hillier: [Musings about Type Ia SN](https://github.com/snianir/talks/raw/master/Hillier_models.pdf).
 
 #### 3 Standardization/LC-fitter Optical+NIR:
 
