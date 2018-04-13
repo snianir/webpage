@@ -123,6 +123,10 @@ We will have time for introductory talks (25' + 5'), discussion on walking excur
 - A. Rest: [SN Ia (and other transients) with JWST](https://github.com/snianir/talks/raw/master/Rest_JWST.pdf).
 - R. Hounsell: [Optimization of the WFIRST SN survey](https://github.com/snianir/talks/raw/master/Hounsell_WFIRST.pdf).
 
+#### General discussion
+
+- S.Jha: [summary](https://docs.google.com/document/d/15t3znJZqua9DJ5fj0XwYnTetStel2yr1-TdARcgVD5Q/edit#).
+
 ## Committees
 
 ### LOC (alph.)
