@@ -84,7 +84,7 @@ We will have time for introductory talks (25' + 5'), discussion on walking excur
 
 - M. Phillips: [Overview of the CSP-I and CSP-II surveys](https://github.com/snianir/talks/raw/master/Phillips_CSP.pdf).
 - K. Ponder: [SweetSpot](https://github.com/snianir/talks/raw/master/Ponder_SweetSpot.pdf).
-- Arturo/Kaisey: Observational aspects of RAISIN
+- A. Avelino/K. Mandel: [Observational aspects of RAISIN](https://github.com/snianir/talks/raw/master/Mandel_Avelino_CfA_RAISIN.pdf).
 
 #### 2 Theory/Simulation/What modellers need?
 
