@@ -95,7 +95,7 @@ We will have time for introductory talks (25' + 5'), discussion on walking excur
 
 - C. Burns: [Is there a way forward to improve SN cosmological fits?](https://github.com/snianir/talks/raw/master/Burns_snoopy.pdf).
 - A. Avelino: [infrared SN Ia as standard candles](https://github.com/snianir/talks/raw/master/Avelino_CfA.pdf).
-- K. Mandel: Statistical Modeling of Type Ia SN data in the Optical and NIR
+- K. Mandel: [Statistical Modeling of Type Ia SN data in the Optical and NIR](https://github.com/snianir/talks/raw/master/Mandel_modeling.pdf).
 - S. Dhawan: [Measuring H0 using Type Ia supernovae as near infrared standard candles](https://github.com/snianir/talks/raw/master/Dhawan_H0.pdf).
 
 #### 4 Dust/Intrinsic color: 
